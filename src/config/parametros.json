@@ -1,0 +1,31 @@
+{
+  "Producao": {
+    "mysql-server": "127.0.0.1",
+    "mysql-port": "3306",
+    "mysql-user": "root",
+    "mysql-password": "10033585CAOA",
+    "mysql-database": "simuladorppr",
+    "smtp-host": "smtp-relay.gmail.com",
+    "smtp-port": 587,
+    "smtp-user": "eumesmopormim@gmail.com",
+    "smtp-password": "17719130129cf"
+  },
+  "ProducaoCaoa": {
+    "mysql-server": "127.0.0.1",
+    "mysql-port": "3306",
+    "mysql-user": "root",
+    "mysql-password": "10033585CAOA",
+    "mysql-database": "simuladorppr",
+    "smtp-port": 25,
+    "smtp-host": "smtp.caoa.com.br",
+    "smtp-user": "caoa_totvs_prd@caoa.com.br",
+    "smtp-password": "C@0AT0tvs*!"
+  },
+  "Teste": {
+    "mysql-server": "127.0.0.1",
+    "mysql-port": "3306",
+    "mysql-user": "root",
+    "mysql-password": "root",
+    "mysql-database": "simuladorppr"
+  }
+}
