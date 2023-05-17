@@ -1,4 +1,5 @@
 {
+  "homepage": "./build",
   "reference": "https://khalilstemmler.com/blogs/typescript/node-starter-project/",
   "dependencies": {
     "cd": "^0.3.3",
