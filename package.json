@@ -29,6 +29,3 @@
     "dev": "NODE_ENV=DEV ts-node -r ./src/index.ts"
   }
 }
-
-
-c2-44-211-41-69.compute-1.amazonaws.com
