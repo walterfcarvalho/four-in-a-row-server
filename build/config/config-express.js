@@ -12,7 +12,7 @@ appConf.use((0, cors_1.default)());
 appConf.options('*', (0, cors_1.default)());
 appConf.use(body_parser_1.default.json());
 (0, consign_1.default)({ cwd: process.env.NODE_ENV === "DEV" ? "./src" : "./" })
-    .include("routes/four-in-a-row")
+    .include("routes/four-in-a-row/")
     .into(appConf);
 appConf.use("/", express_1.default.static("./src/public"));
 appConf.use('/', (req, res) => {
