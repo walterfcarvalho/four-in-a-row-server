@@ -42,3 +42,5 @@ testem.log
 Thumbs.db
 debug.log
 logins - Copia.json
+
+/build/node_modules/**
